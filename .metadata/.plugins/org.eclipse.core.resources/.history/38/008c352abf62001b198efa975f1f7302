@@ -1,0 +1,5 @@
+package com.mdc99.microservices.limitsservice;
+
+public class LimitsConfigurationController {
+
+}

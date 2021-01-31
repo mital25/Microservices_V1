@@ -1,0 +1,7 @@
+spring.application.name=limits-service
+server.port=8080
+
+#max and min value will be taken from sping-cloud-config-server
+#limits-service.maximum=999
+#limits-service.minimum=9
+

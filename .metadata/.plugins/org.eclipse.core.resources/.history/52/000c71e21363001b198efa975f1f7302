@@ -1,0 +1,5 @@
+package com.mdc99.microservices.currencyexchangeservice;
+
+public interface ExchangeValueRepository extends JPARepository{
+
+}
